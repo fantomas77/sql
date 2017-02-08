@@ -1,2 +1,1 @@
-# sql
-Sql scripts
+sql scripts
